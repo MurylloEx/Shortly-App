@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "shortly-app",
+    "name": "Shortly App",
     "slug": "shortly-app",
-    "version": "1.0.0",
+    "version": "2.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
@@ -23,7 +23,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "br.com.muryllo.shortlyapp"
     },
     "web": {
       "favicon": "./assets/favicon.png"
